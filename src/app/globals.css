@@ -28,12 +28,12 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #1e293b;
+  background: #16253a;
   border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #334155;
+  background: #47648f;
 }
 
 .glass {
